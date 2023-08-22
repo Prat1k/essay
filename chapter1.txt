@@ -1,1 +1,1 @@
-The first thing thing to do is lear the folder structure for express projects
+The first thing thing to do is learn the folder structure for express projects
