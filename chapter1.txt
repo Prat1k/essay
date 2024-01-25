@@ -1,1 +1,2 @@
 The first thing thing to do is learn the folder structure for express projects
+The make an express server
