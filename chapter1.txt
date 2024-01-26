@@ -1,5 +1,5 @@
 The first thing thing to do is learn the folder structure for express projects
-Then make an express server
+
 
 This is a space project
 I know right
